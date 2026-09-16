@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+.body{
+    font-family: 'Pacifico',cursive;
+}
+.acento_1{
+    color: #FFC0CB;
+}
+.acento_2 {
+    color:#8B4513;
+}
+.txt_main{
+    font-family: sans-serif;
+}
+pacifico-regular {
+    font-size: 300px;
+    font-family: 'Pacifico', cursive;
+    font-weight: 1;
+    font-style: normal;
+}
+.body{
+    background-color:#fff5e1;
+    min-height: 100vh;
+}
+.navbar{
+    background-color: #FFC0CB;
+
+}
